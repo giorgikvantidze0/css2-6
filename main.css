@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#frame {
+    background-color: #E4EBFF;
+    max-width: 1600px;
+    width: 100%;
+    padding:  70px;
+    margin: 0 auto;
+    margin-top: 64px;
+    margin-bottom: 50px;
+}
+
+#conteiner {
+    padding: 96px;
+    background-color: #FFF;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 96px;
+}
+
+#header {
+    width: 100%;
+    text-align: center;
+}
+
+#headertitle {
+    color: #6941C6;
+    font-size: 15px;
+}
+
+#header-title-too {
+    color: #181D27;
+    font-size: 45px;
+}
+
+
+#header-title-three {
+    color: #535862;
+    font-size: 20px;
+    margin-top: 32px;
+}
+
+#content {
+    width: 100%;
+}
+
+#content-text {
+    max-width: 560px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 200px;
+}
+
+#content-title {
+    color: #181D27;
+    font-size: 35px;
+}
+
+#content-whenther {
+    color: #535862;
+    font-size: 21px;
+    margin-top: 10px;
+}
+
+#content-box {
+    margin: 40px;
+}
+
+#chek {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#chek-text {
+    color: #535862;
+    margin-left: 12px;
+    vertical-align: middle;
+    display: inline-block;
+    
+}
+
+#icon-div {
+    margin-top: 10px;
+}
+
+#icon {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#icon-text {
+    color: #535862;
+    margin-left: 12px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#icon-div {
+    margin-top: 10px;
+}
+
+
+#finish-div {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+#finish-logo-text {
+    color: #535862;
+    margin-left: 12px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
