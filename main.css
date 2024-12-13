@@ -9,23 +9,22 @@
     background-color: #E4EBFF;
     max-width: 1600px;
     width: 100%;
-    padding:  70px;
+    padding: 70px;
     margin: 0 auto;
     margin-top: 64px;
     margin-bottom: 50px;
 }
 
 #conteiner {
-    padding: 96px;
     background-color: #FFF;
-    max-width: 1400px;
+    max-width: 100%;
     margin: 0 auto;
-    padding: 96px;
 }
 
 #header {
     width: 100%;
     text-align: center;
+    padding: 96px;
 }
 
 #headertitle {
@@ -45,15 +44,21 @@
     margin-top: 32px;
 }
 
-#content {
+#conteiner-box {
     width: 100%;
 }
 
+
+#content {
+    width: 100%;
+    margin-left: 70px;
+}
+
 #content-text {
-    max-width: 560px;
     display: inline-block;
     vertical-align: middle;
-    margin-top: 200px;
+    margin-top: 20px;
+    width: 48%;
 }
 
 #content-title {
@@ -81,7 +86,7 @@
     margin-left: 12px;
     vertical-align: middle;
     display: inline-block;
-    
+
 }
 
 #icon-div {
@@ -108,6 +113,7 @@
 #finish-div {
     display: inline-block;
     vertical-align: middle;
+    margin-top: 10px;
 }
 
 
@@ -118,3 +124,169 @@
     display: inline-block;
 }
 
+#images-dolar {
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 80px;
+    width: 48%;
+}
+
+
+
+
+
+
+#conteiner-too {
+    width: 100%;
+}
+
+#conteiner-too-img {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 40px;
+    width: 48%;
+}
+
+
+#conteiner-too-text {
+    display: inline-block;
+    vertical-align: middle;
+    width: 48%;
+    margin-left: 40px;
+}
+
+#title-text-conteiner {
+    font-size: 40px;
+    color: #181D27;
+
+
+}
+
+#text-customer {
+    font-size: 20px;
+    color: #535862;
+    margin-top: 10px;
+}
+
+#conteiner-icon {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 10px;
+
+
+
+}
+
+#icon-text-too {
+    color: #535862;
+    margin-left: 12px;
+    vertical-align: middle;
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 20px;
+
+
+}
+
+#conteiner-icon-three {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 10px;
+}
+
+
+#icon-text-three {
+    color: #535862;
+    margin-left: 12px;
+    vertical-align: middle;
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+
+#box-finish {
+    width: 100%;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+
+
+#box-text {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 40px;
+    width: 48%;
+}
+
+
+#title-box-finish {
+    font-size: 40px;
+    color: #181D27;
+    margin-top: 10px;
+}
+
+
+#box-text-matters {
+    color: #535862;
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+#boxicontext {
+    margin-top: 20px;
+}
+
+#box-icon {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+#box-text {
+    color: #535862;
+    margin-left: 12px;
+    vertical-align: middle;
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 15px;
+}
+
+#box-icon-too {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#box-text-too {
+    color: #535862;
+    margin-left: 12px;
+    vertical-align: middle;
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 15px;
+}
+
+#box-icon-three {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#box-text-thre {
+    color: #535862;
+    margin-left: 12px;
+    vertical-align: middle;
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 15px;
+}
+
+
+#box-finish-dolar {
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 80px;
+    width: 47%;
+    margin-bottom: 40px;
+}
